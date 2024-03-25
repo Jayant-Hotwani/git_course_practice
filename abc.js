@@ -1,1 +1,6 @@
-const age =12;q
+const age = 12;
+
+function func() {
+  console.log(age);
+}
+func();
